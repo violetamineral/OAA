@@ -13,7 +13,7 @@
 </code></pre>
 
 ## 다음은 마이닝용 사용자를 만들어주세요.
-<pre><code>CREATE USER dmuser IDENTIFIED BY WelCome1234#_
+<pre><code>CREATE USER dmuser IDENTIFIED BY Oracle123456
        DEFAULT TABLESPACE USERS
        TEMPORARY TABLESPACE TEMP
        QUOTA UNLIMITED ON USERS;
